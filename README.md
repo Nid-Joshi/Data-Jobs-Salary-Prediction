@@ -1,4 +1,4 @@
-# Data-Jobs-Salary-Prediction
+# Data-Jobs-Salary-Prediction - MATLAB
 Comparison of Linear Regression and Decision Tree models to predict job salaries
 
 Toolbox needed: Statistics and Machine Learning Toolbox
